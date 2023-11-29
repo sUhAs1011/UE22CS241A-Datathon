@@ -1,7 +1,6 @@
 # Datathon
 
-My third sem SDS Datathon, where our team  had to write python codes for the set of questions we were questions
-The following codes, generate a Correlation Heat Map,Histogram, Normal Probability Plot and a Bar Graph, you can also generate plots of these types with the dataset you have
+During my third semester SDS Datathon, our team was tasked with creating Python scripts to address a series of given questions. We wrote code to produce a Correlation Heat Map, Histogram, Normal Probability Plot, and Bar Graph. You can also use the provided dataset to create plots of these types.
 
 ## Prerequisites
 Install `pandas`,`seaborn`,`scipy``matplotlib` using pip. 
